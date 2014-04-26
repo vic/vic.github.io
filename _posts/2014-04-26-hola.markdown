@@ -1,2 +1,10 @@
-Hola
-====
+---
+layout: post
+title:  "Hola"
+date:   2014-04-26 17:57:40
+categories: hola blog
+---
+
+# Como estas
+
+Este es el contenido
